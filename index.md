@@ -1,3 +1,7 @@
-# Se agrego un titulo
+# Dev Javier Alburges
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Dev Javier Alburges](https://javieralburges.vercel.app/me.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
